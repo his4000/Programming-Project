@@ -5,7 +5,7 @@ Assignment #1 for the programming project class in 2016 Spring at Konkuk Univers
 
 - sample.txt : Sample text file
 - Regular expression : The word which includes (*, ?)
-  * * : More than 0 characters (e.g. a*b = ab, acb, acdb, acdeb)
+  * \* : More than 0 characters (e.g. a*b = ab, acb, acdb, acdeb)
   * ? : 0 or 1 characters (e.g. a?b = ab, acb, adb)
   
 ## Function & Output
